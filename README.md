@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/BellatorJS/typescript-developer-project-81/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/BellatorJS/typescript-developer-project-81/actions)
